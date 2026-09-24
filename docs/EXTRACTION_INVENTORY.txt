@@ -1,0 +1,27 @@
+EaglePlayer20.apk extraction inventory
+Total files: 510
+APK size: 13687248 bytes
+
+Top-level components:
+- AndroidManifest.xml
+- resources.arsc
+- classes.dex through classes5.dex
+- assets/
+- res/
+- lib/
+- kotlin/
+- META-INF/
+
+Important WebApp files:
+- assets/webapp/index.html
+- assets/webapp/base.json
+- assets/webapp/assets/index-Ct7ZfPcg.js
+- assets/webapp/assets/index-Ct7ZfPcg.js.pre-obfuscate
+- assets/webapp/assets/index-AzgwbCl7.css
+- assets/webapp/assets/hls-BB0S4iYm.js
+- assets/webapp/assets/hls-legacy-B7zzMXeF.js
+- assets/webapp/assets/mpegts-Wzu230E-.js
+- assets/webapp/assets/mpegts-legacy-DcyNkVLP.js
+- assets/webapp/libs/p2p-media-loader-hlsjs.umd.js
+
+The complete local extraction was generated from the uploaded APK. This repository currently stores the editable webapp entrypoint/metadata and the extraction documentation.
